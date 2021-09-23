@@ -182,6 +182,7 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="home" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.GoToChild" />
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
@@ -194,5 +195,11 @@
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="space" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>
