@@ -1,0 +1,6 @@
+<application>
+  <component name="dev.niels.sqlbackuprestore.AppSettingsState">
+    <option name="askForRestoreFileLocations" value="true" />
+    <option name="useDbNameOnDownload" value="true" />
+  </component>
+</application>
