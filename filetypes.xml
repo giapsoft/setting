@@ -1,25 +1,24 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
+      <mapping pattern="PhonePipe" type="AUTO_DETECTED" />
+      <mapping pattern="Authority.ts" type="AUTO_DETECTED" />
+      <mapping pattern="SeatPipe" type="AUTO_DETECTED" />
+      <mapping pattern="model" type="AUTO_DETECTED" />
+      <mapping pattern="constants" type="AUTO_DETECTED" />
+      <mapping pattern="FormInfo" type="AUTO_DETECTED" />
+      <mapping pattern="UrlPattern" type="AUTO_DETECTED" />
+      <mapping pattern="AbstractXe" type="AUTO_DETECTED" />
+      <mapping pattern="EntityEnum" type="AUTO_DETECTED" />
+      <mapping pattern="BussPoint" type="AUTO_DETECTED" />
+      <mapping pattern="header_selection.xhtml" type="AUTO_DETECTED" />
       <mapping pattern="SkeGlobalEmployeeBean.java" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="xhtml" approved="true" type="HTML" />
-      <mapping pattern="AbstractXe" type="AUTO_DETECTED" />
-      <mapping pattern="Authority.ts" type="AUTO_DETECTED" />
-      <mapping pattern="BussPoint" type="AUTO_DETECTED" />
-      <mapping pattern="EntityEnum" type="AUTO_DETECTED" />
-      <mapping pattern="FormInfo" type="AUTO_DETECTED" />
-      <mapping pattern="PhonePipe" type="AUTO_DETECTED" />
-      <mapping pattern="SeatPipe" type="AUTO_DETECTED" />
-      <mapping pattern="UrlPattern" type="AUTO_DETECTED" />
-      <mapping pattern="constants" type="AUTO_DETECTED" />
-      <mapping pattern="header_selection.xhtml" type="AUTO_DETECTED" />
-      <mapping pattern="model" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
