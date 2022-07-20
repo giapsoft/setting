@@ -2,32 +2,4 @@
   <component name="ExternalDiffSettings">
     <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
-  <component name="SvnDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.4008439" />
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="BREADCRUMBS_PLACEMENT" value="BOTTOM" />
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
-          <option name="SHOW_INDENT_LINES" value="true" />
-          <option name="SHOW_WHITESPACES" value="true" />
-          <option name="USE_SOFT_WRAPS" value="true" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
 </application>
