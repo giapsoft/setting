@@ -13,17 +13,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="JRebelPlugin">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="com.haulmont.jpab">
           <value>
             <PluginData>
@@ -37,17 +26,7 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.intellij.javaee.ejb">
-          <value>
-            <PluginData />
-          </value>
-        </entry>
         <entry key="com.intellij.jsf">
-          <value>
-            <PluginData />
-          </value>
-        </entry>
-        <entry key="com.intellij.seam">
           <value>
             <PluginData />
           </value>
