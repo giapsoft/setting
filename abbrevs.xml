@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Debugger.RemoveAllBreakpointsInFile">
+        <abbreviation name="gbc" />
+      </action>
+      <action id="UpdateFiles">
+        <abbreviation name="svnupdate" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
